@@ -1,0 +1,10 @@
+---
+layout: page
+title: Gopal's blog
+---
+<ul>
+	{% for post in site.posts %}
+		<li><a hred="{{ post.url }}">{{ post.title }}</a></li>
+	{% endfor %}
+</ul>
+
