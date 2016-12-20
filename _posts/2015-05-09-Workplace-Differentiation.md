@@ -8,7 +8,9 @@ It might happen that multiple employees have the same internal success metrics. 
 One thing that would be instrumental to the success of the team would be a shared enthusiasm for the project and a shared mindset of tenacity and willingness to enable the project to succeed.
 
 SMALL -> exclusive and intersecting skills developed at the same time
+
 VARIED -> complementary personalities and success metrics
+
 GRIT -> shared mindset on project vision
 
 When the team has the above 3 elements and a good leadership to support, encourage and guide them, the team and the project become successful.
