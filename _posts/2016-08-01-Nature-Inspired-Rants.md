@@ -1,0 +1,11 @@
+---
+layout: posts
+---
+
+I have been closer to nature than I have been for the most part of this year. We are close to a lagoon, a river and several large paddy fields where rice is grown. Also, I have now got acclimatized to the lush greenery near my home here. It's fascinating! I think once I get back, I'll have to spend time in the presidio woods or in Marin headlands to maintain the same level of connection to nature.
+
+It's also interesting to see the dynamics within nature:
+
+[1] Interaction: In our garden, there are weeds. These weeds attack big trees including the baby palm trees. They end up destroying them in a matter of weeks once they attack. It's a slow but steady process. It teaches us that a seemingly inferior contemporary can pose significant threat when they are focused and given enough time with the right motivation. Years ago, I read the book: The Prince by Machiavelli. It was filled with rhetoric and maxims that were centered around war and the enemy. What I remember distinctly in that book though is the lack of anecdotes, examples and counter examples that help better understand the maxims mentioned. However, one thing I took away was that back in the days when that book was written, war was the primary form of competition. Today it is business. Even in the occasions that we do have war, there are most likely significant business interests involved.
+
+[2] Sustenance: Grass! We have a lot of grass that is now looking pretty wild in our yard. Once summer hits, the grass settles and fades off by itself. It's incredibly cyclical. It could possibly indicate that regardless of the person, one goes through pleasant(crest) and trying(trough) times over the course of their lifetime. When one is experiencing the joy and excitement of a crest, they should prepare for the challenges that lay ahead. When one is experiencing the anguish and pain of a trough, they should seek solace that a brighter future lay ahead and that it's a matter of time provided we continue to maintain focus and persist. They say that opportunities can come knocking on your door, but they have to find you working hard :)
