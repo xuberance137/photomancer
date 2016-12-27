@@ -16,15 +16,15 @@ One can make the argument that their is need to making a choice. Go with what wo
 
 Unbundling/Fragmentation:
 
-Containerization and container orchestration frameworks allow for worthy substitute to PaaS options like AMZN AWS/GOOG Cloud/MSFT Azure/Digital Ocean. This allows for custom implementations. Couple of arguments used in the favor of this approach are the following (inspired by Denny Britz's [post]):
+Containerization and container orchestration frameworks allow for worthy substitute to PaaS options like AMZN AWS/GOOG Cloud/MSFT Azure/Digital Ocean. This allows for custom implementations. Couple of arguments used in the favor of this approach are the following (inspired by [Denny Britz]):
 
-1. Costs: Fixed + Pay-Per-Use model of AWS vs close to free pricing for containerized applications + cloud charges
-2. Features: Some developers cite the fact that AWS is often based on open source projects forked for integration into the PaaS. The counterargument to this limitation is that this approach makes sense to the PaaS provider as it allows for better maintainability and stability of their offering. Also, key features that are of demand by users/product entities can be integrated into future releases of the PaaS solution. Need-based feature staging can be a beneficial approach to these cloud PaaS vendors. Product entities tend to use cloud PaaS for meaningful abstractions of cloud services and mostly prefer to focus on application development rather than debugging PaaS components
-3. Cloud-lock in: agreed! this is a long/short term benefit
-4. Control: Product entities need to rely on cloud PaaS to support new features and fix bugs while using open source containerized applications can allow for “faster” (if approached by the right development resources) debugging on bleeding edge open source projects. But really, once a product entity invests a significant amount of time early on for a containerized implementation of bleeding edge software components, it is unlikely to release them back to the community through a hosting like DockerHub.
+- Costs: Fixed + Pay-Per-Use model of AWS vs close to free pricing for containerized applications + cloud charges
+- Features: Some developers cite the fact that AWS is often based on open source projects forked for integration into the PaaS. The counterargument to this limitation is that this approach makes sense to the PaaS provider as it allows for better maintainability and stability of their offering. Also, key features that are of demand by users/product entities can be integrated into future releases of the PaaS solution. Need-based feature staging can be a beneficial approach to these cloud PaaS vendors. Product entities tend to use cloud PaaS for meaningful abstractions of cloud services and mostly prefer to focus on application development rather than debugging PaaS components
+- Cloud-lock in: agreed! this is a long/short term benefit
+- Control: Product entities need to rely on cloud PaaS to support new features and fix bugs while using open source containerized applications can allow for “faster” (if approached by the right development resources) debugging on bleeding edge open source projects. But really, once a product entity invests a significant amount of time early on for a containerized implementation of bleeding edge software components, it is unlikely to release them back to the community through a hosting like DockerHub.
 
 [Google]: http://www.theverge.com/2016/7/22/12255334/google-cloud-ai-deepmind?yptr=yahoo
 [TensorFlow chip]: http://www.theverge.com/circuitbreaker/2016/5/19/11716818/google-alphago-hardware-asic-chip-tensor-processor-unit-machine-learning
 [ML Studio]: http://www.kdnuggets.com/2014/11/microsoft-azure-machine-learning.html
 [Watson Analytics]: http://www.kdnuggets.com/2014/12/ibm-watson-analytics-microsoft-azure-machine-learning-p1.html
-[post]: http://blog.dennybritz.com/2015/10/06/the-unbundling-of-aws/
+[Denny Britz]: http://blog.dennybritz.com/2015/10/06/the-unbundling-of-aws/
