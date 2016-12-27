@@ -17,7 +17,7 @@ title: photomancer
 email: gopal.e@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   A growing collection of thoughts on image processing, machine learning, organizational behavior and entrepreneurial activities.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/photomancer" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: xuberance137
 github_username:  xuberance137
