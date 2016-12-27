@@ -5,11 +5,8 @@ layout: posts
 Any technology that is algorithmic can be offered as a service using the cloud. What then governs whether the cloud is the right approach for developing new products built on algorithmic technology? I believe that evaluation on the following metrics are crucial to the success of a cloud API based implementation:
 
 - functional latency
-
 - implementation complexity
-
 - development agility
-
 - scope scalability
 
 One quickly realized that such products are marketed and built for software developers. They are the customers. These are intended to make their lives easier. These are intended to make them more effective at what they do. In my experience as a software developer, people are often wowed by the results of what you do and less so by the techniques that you followed to produce those results. Cloud vs local is a function of methodology and if a developer can produce results faster, allow for quick tuning and enable better forms of abstraction of algorithmic components, that allows others to understand the methodology and results equally well. Moreover, cloud API forces you to think about algorithms in a modular manner because you are fundamentally constrained by the granularity of the API call. The most detailed explanation of a cloud-based algorithm is based on a thorough description of the lowest level API calls made in the implementation.
