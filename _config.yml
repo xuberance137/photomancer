@@ -17,7 +17,7 @@ title: photomancer
 email: gopal.e@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   A growing collection of thoughts on image processing, machine learning, organizational behavior and entrepreneurial activities.
-baseurl: "/photomancer" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: xuberance137
 github_username:  xuberance137
@@ -30,3 +30,19 @@ gems:
 exclude:
   - Gemfile
   - Gemfile.lock
+# Navigation (2nd level links supported)
+nav:
+  Home:           
+    - '/'
+  Blog:           
+    - '/blog/'
+    - { Categories: '/blog/categories/' }
+    - { Tags: '/blog/tags/' }
+  About:          
+    - '/about/'
+  Github Project: 
+    - 'http://codinfox.github.io/'
+
+# Where are tags and categories displayed
+tag_page: '/blog/tags/'
+category_page: '/blog/categories/'

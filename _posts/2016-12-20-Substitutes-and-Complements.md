@@ -2,7 +2,10 @@
 layout: posts
 ---
 
-I've been thinking more about the role of subsitutes and complements when analysing the pricing of new products. Substitute products are those that can serve as a replacement to some or all of the functionality of the new product while complementary products are those that deliver functionality and utility in tandem with the new product. [Joel Spolsky] has given us some very interesting examples of substitues and complements with broad generalizations. For example, chicken is a substitute for beef and hotels reseravations are complmentary to airline tickets.
+![My helpful screenshot]({{ site.url }}/assets/images/holiday.jpg)
+
+I've been thinking more about the role of subsitutes and complements when analysing the pricing of new products. Substitute products are those that can serve as a repalcement to some or all of the functionality of the new product while complementary products are those that devilver functionality and utility in tandem with the new product. [Joel Spolsky] has given us some very interesting examples of substitues and complements with broad generalizations. For example, chicken is a substitute for beef and hotels reseravations are complmentary to airline tickets.
+>>>>>>> Stashed changes
 
 The interesting thing to note is that when it comes to pricing, substitutes bring down the prices of a product while complements bring up the price of a product. This has a few different ramifications:
 
