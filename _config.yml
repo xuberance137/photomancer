@@ -21,15 +21,20 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: xuberance137
 github_username:  xuberance137
+logo: '/_site/logo/photomancer-logo.001.png'
 
 # Build settings
 markdown: kramdown
 theme: minima
 gems:
-  - jekyll-feed
+  - jekyll-paginate
 exclude:
   - Gemfile
   - Gemfile.lock
+# Site configurations
+sass:
+  style: compressed
+  sass_dir: _scss
 # Navigation (2nd level links supported)
 nav:
   Home:           
@@ -41,7 +46,7 @@ nav:
   About:          
     - '/about/'
   Github Project: 
-    - 'http://codinfox.github.io/'
+    - 'http://xuberance137.github.io/'
 
 # Where are tags and categories displayed
 tag_page: '/blog/tags/'
