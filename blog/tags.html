@@ -7,6 +7,7 @@ title: Tags
   <div class="tags-expo-list">
     {% for tag in site.tags %}
     <a href="#{{ tag[0] | slugify }}" class="post-tag">{{ tag[0] }}</a>
+    <p></p>
     {% endfor %}
   </div>
   <hr/>
@@ -15,9 +16,14 @@ title: Tags
     <h4 id="{{ tag[0] | slugify }}">{{ tag[0] }}</h4>
     <ul class="tags-expo-posts">
       {% for post in tag[1] %}
-      <li>
-        <a font size="6">{{ post.title }}href="{{ site.baseurl }}{{ post.url }}"</font>
-      <small class="post-date">{{ post.date | date_to_string }}</small>
+      <li>  
+      <font size="4">
+      <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}  
+      </font>
+      </a>
+      <font size="2">
+      posted on {{ post.date | date_to_string }}
+      </font>     
       </li>
       </a>
       {% endfor %}
