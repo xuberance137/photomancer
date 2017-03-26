@@ -9,8 +9,10 @@ layout: page
 <div class="post">
   <!-- <h1 class="post-title">{{ page.title }}</h1> -->
   <p></p>
-  <h1 class="post-date">{{ page.date | date: '%d %B %Y   ' }}</h1>
+  posted on {{ page.date | date: '%d %B %Y   ' }}
   <p></p>
+  <p></p>
+  Tags: 
   {% if page.tags %}  
   {% for tag in page.tags %}
     <a href="{{ site.baseurl }}{{ site.tag_page }}#{{ tag  | slugify }}" class="post-tag">{{ tag }}</a>
