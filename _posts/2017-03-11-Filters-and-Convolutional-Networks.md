@@ -1,6 +1,7 @@
 ---
 layout: posts
 title: Filters and Convolutional Neural Networks
+duration: 10
 category: Machine Learning
 tags: [deep learning, machine learning, image]
 ---

@@ -1,5 +1,10 @@
 ---
 layout: posts
+title: What matters for AI cloud services
+duration: 15
+category: Machine Learning, Business
+tags: [deep learning, machine learning, business]
+comments: true
 ---
 
 Any technology that is algorithmic can be offered as a service using the cloud. What then governs whether the cloud is the right approach for developing new products built on algorithmic technology? I believe that evaluation on the following metrics are crucial to the success of a cloud API based implementation:
