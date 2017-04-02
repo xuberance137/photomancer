@@ -8,7 +8,9 @@ layout: page
 -->
 <div class="post">
   <!-- <h1 class="post-title">{{ page.title }}</h1> -->
-  {{ page.date | date: '%d %B %Y   ' }}  - {{page.duration}} min read
+  {% assign num_words = page.content | strip_html | number_of_words %}
+  {% assign minutes = num_words | divided_by: 100 | plus:1 %}
+  {{ page.date | date: '%d %B %Y   ' }}  - {{ minutes }} min read
   <p></p>
   <p></p>
   Tags: 
