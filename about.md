@@ -4,12 +4,11 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Welcome to Photomancer! 
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jekyll" %} /
-[minima](https://github.com/jekyll/minima)
+I am a technologist working at the confluence of media, machine learning and cognitive understanding. I have written up my thoughts on a few different topics here. When it comes to posts, they span a fairly broad spectrum ranging from short thought pieces, to fairly detailed analyses on specific topics. 
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+I would encourage you post comments and reactions on articles that you read and find interesting. If there are any specific related topics that you would like me to think about or cover in the future, please write to me at the address below. I look forward to hear from you.
+
+
+
