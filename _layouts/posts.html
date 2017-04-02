@@ -15,7 +15,7 @@ layout: page
   {% if page.tags %}  
   {% for tag in page.tags %}
     &nbsp; 
-    <a href="{{ site.baseurl }}{{ site.tag_page }}#{{ tag  | slugify }}" class="post-tag"> {{ tag }}</a>
+    <a href="/photomancer{{ site.tag_page }}#{{ tag  | slugify }}" class="post-tag"> {{ tag }}</a>
   {% endfor %}
   {% endif %}
   <p></p>
@@ -30,7 +30,7 @@ layout: page
   <ul class="related-posts">
     {% for post in site.related_posts limit:3 %}
       <li>
-      <font size="4">
+      <font size="5">
           <a href="{{ site.baseurl }}{{ post.url }}"> <small>{{ post.title }}</small>
           </a>
           </font>
@@ -42,7 +42,8 @@ layout: page
 <p></p>
 
 <div class="share-page">
-    <h3>Share this! </h3> {% include share_bar.html %}
+    <h3>Share this! </h3> 
+    {% include share_bar.html %}
 </div>
 
 
