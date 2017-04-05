@@ -1,5 +1,8 @@
 ---
 layout: posts
+title: True Emotional Indicators
+category: Leadership
+tags: [innovation, leadership, business]
 ---
 
 Very rarely we do get to really understand the true motivations behind a persons actions. When we meet someone who we have an acquaintance with or whom we are introduced to, we have some context. However, how do we really know what the real situation in their life is? Are they succeeding at their passions, are they enjoying their personal relationships, are they learning and gaining the wisdom that they aspire for?

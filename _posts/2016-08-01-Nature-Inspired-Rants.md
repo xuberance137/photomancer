@@ -1,5 +1,8 @@
 ---
 layout: posts
+title: Nature Inspired Rants
+category: Organization
+tags: [innovation, business]
 ---
 
 I have been closer to nature than I have been for the most part of this year. We are close to a lagoon, a river and several large paddy fields where rice is grown. Also, I have now got acclimatized to the lush greenery near my home here. It's fascinating! I think once I get back, I'll have to spend time in the presidio woods or in Marin headlands to maintain the same level of connection to nature.

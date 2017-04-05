@@ -1,5 +1,8 @@
 ---
 layout: posts
+title: Expertise Transparency
+category: Innovation
+tags: [innovation, leadership, business]
 ---
 
 Arthur C. Clarke famously said “Any sufficiently advanced technology is indistinguishable from magic.” The corollary to that statement is: “Once a technology has been around long enough, no one thinks it is special.”

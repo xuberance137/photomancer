@@ -1,5 +1,8 @@
 ---
 layout: posts
+title: Workplace Differentiation
+category: Business
+tags: [innovation, business, leadership]
 ---
 
 Cities in the US attract the most ambitious and most competitive people in the country. They are competing and vying for the best opportunities at the premium avenues for vertical growth [see Zero -> One]. In this environment, what is the right form of work place differentiation? I believe that while managing employees, we come to realize that every employee is different and every employee has a different set of success metrics that they value. While these success metrics are in alignment with the goals of the business, the manager seeks to empower and enable them towards performing to their best ability at these success metrics. Seeing the employees thinking, the manager might also create new opportunities for the business to match what the employees want to do. A classic example is when a startup uses a certain set of technologies because the founders of the startup wanted to learn them and build fluency with the tools that enables these technologies.

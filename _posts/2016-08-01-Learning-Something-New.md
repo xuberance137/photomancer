@@ -1,16 +1,19 @@
 ---
 layout: posts
+title: Learning Something New
+category: Innovation
+tags: [organization, innovation]
 ---
 
 Picking up something new quickly requires a methodology. What would be a plausible right methodology? I propose the following:
 
-[1]Google first but only for a few minutes. Don’t spend your entire skimming cream. Go a little deeper!
+1. Google first but only for a few minutes. Don’t spend your entire skimming cream. Go a little deeper!
 
-[2]Sketch out the new concept in your own way centered around something that matters to you. You tend to remember it better.
+2. Sketch out the new concept in your own way centered around something that matters to you. You tend to remember it better.
 
-[3]Then review what experts have to say about it. How do they think about this concept? This helps develop a more mature perspective very quickly.
+3. Then review what experts have to say about it. How do they think about this concept? This helps develop a more mature perspective very quickly.
 
-[4]Try and explain the concept to someone else in a succinct and measured way using as little jargon as possible. The more basic your explanation is, the more thorough your understanding could be.
+4. Try and explain the concept to someone else in a succinct and measured way using as little jargon as possible. The more basic your explanation is, the more thorough your understanding could be.
 
 From [Nir Eyal]:
 

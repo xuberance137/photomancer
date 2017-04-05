@@ -1,5 +1,8 @@
 ---
 layout: posts
+title: On Toolboxes
+category: Organization
+tags: [innovation, leadership, business]
 ---
 
 In his book, ‘On Writing’, Steve King talks about toolboxes for the writing profession and lists vocabulary as one of the primary tools in this toolbox. Further thought on toolboxes and associated tools leads to some interesting frames of reference.

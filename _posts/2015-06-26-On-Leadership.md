@@ -1,5 +1,8 @@
 ---
 layout: posts
+title: On Leadership
+category: Leadership
+tags: [innovation, leadership, business]
 ---
 
 “Leadership is a matter of choice and not rank” - Simon Sinek, TED talk

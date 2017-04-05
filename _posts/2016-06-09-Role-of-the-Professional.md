@@ -1,5 +1,8 @@
 ---
 layout: posts
+title: Role of the Professional
+category: Leadership
+tags: [innovation, leadership, business]
 ---
 
 The definition of a thrill is temporary excitement, usually experienced for the first time.  It's thrilling to ride a roller coaster. The fifth time you have to ride it, though, it's more than a chore, it's torture. The definition of the thrill is that it's going to be gone soon. You might have been thrilled to go to your first job the first day. Or thrilled to see the first comment on your blog or thrilled the first time one of your books was translated into another language.

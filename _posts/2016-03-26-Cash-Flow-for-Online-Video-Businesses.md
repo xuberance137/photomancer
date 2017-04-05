@@ -1,5 +1,8 @@
 ---
 layout: posts
+title: Cash Flow profiles for an online video business
+category: Business
+tags: [innovation, video, business]
 ---
 
 The above are simple visual descriptions of cash flow profiles for different companies as they startup their business. There are three distinct scenarios that I am trying to identify based on descriptions mentioned in [1]. The first is that of an Airline business. Airline business models are inherently unattractive. Huge upfront costs and tremendous risk at the beginning and there is upside after meeting with success and gaining significant traction. The biggest challenge is the starting costs are prohibitive, require capital with commitment for the long term. That is the investment cycle for the business. One can make an argument that automotive businesses (Lincoln/Tesla/Carma/…) and consumer satellite and drone businesses (Virgin Galactic/SpaceX/Skybox/3DRobotics/…) are similar to this business models. The business models and the time horizon for these businesses are also heavily dependent on existing, new and upcoming regulatory policies that govern their launch. Car safety for automobiles, FAA regulations for satellites and drones.

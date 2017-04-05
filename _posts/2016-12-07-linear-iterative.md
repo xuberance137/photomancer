@@ -1,5 +1,8 @@
 ---
 layout: posts
+title: Linear vs Iterative
+category: Innovation
+tags: [innovation, leadership, business]
 ---
 Are artists linear thinkers? Does linear thinking lead to faster delivery? how valuable is that?
 

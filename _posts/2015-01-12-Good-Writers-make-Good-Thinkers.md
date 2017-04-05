@@ -1,5 +1,8 @@
 ---
 layout: posts
+title: Good Writers make Good Thinkers
+category: Innovation
+tags: [innovation]
 ---
 
 People who talk intelligently and write with clarity are usually good thinkers. When one has a well organized message and a well articulated speech, it is a pretty clear indication of good thought on the topic and good thinking in general. In order to explain an idea or communicate a concept, one must have a very well organized train of thought on that idea or concept. Else, it becomes impossible to form a new thinking in another person’s mind.

@@ -1,5 +1,8 @@
 ---
 layout: posts
+title: Formulating Corporate Failure
+category: Business
+tags: [innovation, business, leadership]
 ---
 
 In recent conversations, we discussed a formulation for corporate failure:

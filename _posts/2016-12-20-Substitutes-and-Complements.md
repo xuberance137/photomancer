@@ -1,11 +1,13 @@
 ---
 layout: posts
+title: Substitutes and Complements
+category: Business
+tags: [innovation, business]
 ---
 
 ![My helpful screenshot]({{ site.url }}/assets/images/holiday.jpg)
 
 I've been thinking more about the role of subsitutes and complements when analysing the pricing of new products. Substitute products are those that can serve as a repalcement to some or all of the functionality of the new product while complementary products are those that devilver functionality and utility in tandem with the new product. [Joel Spolsky] has given us some very interesting examples of substitues and complements with broad generalizations. For example, chicken is a substitute for beef and hotels reseravations are complmentary to airline tickets.
->>>>>>> Stashed changes
 
 The interesting thing to note is that when it comes to pricing, substitutes bring down the prices of a product while complements bring up the price of a product. This has a few different ramifications:
 
@@ -15,7 +17,7 @@ The interesting thing to note is that when it comes to pricing, substitutes brin
 
 4. [User network effects] lead to less substition and more complimentary behavior. 
 
-3. In a tiered model, where you selectively price your product in tiers based on increasing complementary functionality. This would be a way to break out of the competition.
+3. In a tiered model, where you selectively price your product in tiers based on increasing complementary functionality. This is a way to break out of the competition.
 
 5. Tiered pricing also allows for a mix of competitive and complementary functionality. 
 

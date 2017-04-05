@@ -1,5 +1,8 @@
 ---
 layout: posts
+title: Inventive Exploration
+category: Innovation
+tags: [business, innovation]
 ---
 
 When engrossed in the invention process and fueling innovative thinking and idea generation, one  can be in the phase of “exploration”. I have come to the realization that true invention (and henceforth innovation) is a result of thoughtful exploration.

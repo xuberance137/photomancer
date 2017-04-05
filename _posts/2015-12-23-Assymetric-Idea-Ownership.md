@@ -1,8 +1,11 @@
 ---
 layout: posts
+title: Assymetric Idea Ownership
+category: Innovation
+tags: [innovation, leadership, business]
 ---
 Discussions around the true ownership of an idea has always been a highly contentious affair. In the case of corporate efforts, who is the true owner of a concept and what exactly does ownership mean? One would argue that the time for conceiving an idea is paid for by an organization and employees of that organization are henceforth obliged to hand over idea and intellectual property ownership to their organizations. But that does not carry forward very well to salaried employees. If a salaried employee works on an idea during his spare time at his home, corporate work contracts are still crafted to assume ownership over his creations outside of his work unless explicits waived by the organization.
 
-So let’s look at concepts. If an employee mentions a concept to a fellow employee and the fellow employee sees value in it, what’s to prevent him/her from flaunting as his own? In the absence of secrecy(not sharing ideas with fellow employees) and corporate culture(stealing ideas), there is nothing preventing ideas from being re-presented as another person’s creation. In this case, the organizational construct holds, i.e. regardless of the original creator, the organization delivered the concept and it’s follow up. Discussions between organizations are usually protected with legal contracts (NDAs, consulting agreements, letters of intent, co-development agreements.
+So let’s look at concepts. If an employee mentions a concept to a fellow employee and the fellow employee sees value in it, what’s to prevent him/her from flaunting as his own? In the absence of secrecy (not sharing ideas with fellow employees) and corporate culture (stealing ideas), there is nothing preventing ideas from being re-presented as another person’s creation. In this case, the organizational construct holds, i.e. regardless of the original creator, the organization delivered the concept and it’s follow up. Discussions between organizations are usually protected with legal contracts (NDAs, consulting agreements, letters of intent, co-development agreements.
 
 So one can argue both sides of corporate idea ownership. In a new venture, it is beneficial for the inventor (who is also a cofounder) to grant ownership, albeit the asymmetry, to the venture as the idea in itself is of limited value and true value creation happens with the idea is coupled with it’s strategic execution, which is what the new venture aims to do.

@@ -1,5 +1,8 @@
 ---
 layout: posts
+title: Messaging in Communications
+category: Business
+tags: [innovation, data, business]
 ---
 
 In the current world of apps and interpersonal communications, what exactly is messaging? Is it limited to the concept of sending text( and media) from one person( or entity) to another? A fundamental of interpersonal communications is CONTEXT. Context defines the nature of interpersonal communications and the nature of reflex and reciprocity in communications. If messaging is taking on the route of being a “reasonable” alternative to phone calls, it needs to be able to provide context.

@@ -1,5 +1,8 @@
 ---
 layout: posts
+title: Data Marketplaces for Machine Learning
+category: Machine Learning
+tags: [marketplaces, business, machine learning, data]
 ---
 We anticipate a future where software is commodity. Lightning fast, community driven, collaborative software development with safe and seamless update cycles will be the norm. This is even more relevant in the space of machine learning (ML).
 

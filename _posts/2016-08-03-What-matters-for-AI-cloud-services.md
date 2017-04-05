@@ -2,7 +2,7 @@
 layout: posts
 title: What matters for AI cloud services
 duration: 15
-category: Machine Learning, Business
+category: Machine Learning
 tags: [deep learning, machine learning, business]
 comments: true
 ---

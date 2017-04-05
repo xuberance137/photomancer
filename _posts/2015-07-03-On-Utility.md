@@ -1,5 +1,8 @@
 ---
 layout: posts
+title: On Utility
+category: Business
+tags: [marketplaces, business, innovation]
 ---
 
 When and how can we assess the value of a physical object to us?
